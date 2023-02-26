@@ -4,10 +4,9 @@
 SARS CORONAVIRUS drug discovery using Machine Learning🏥
 
 
+![WhatsApp Image 2023-02-26 at 12 02 24 PM](https://user-images.githubusercontent.com/97012708/221414595-1221f83a-840c-482e-9b05-58da145a08a4.jpeg)
+![WhatsApp Image 2023-02-26 at 12 02 25 PM](https://user-images.githubusercontent.com/97012708/221414598-85358f9e-6b93-49a9-99cf-874d4e050086.jpeg)
 
-![](https://drive.google.com/file/d/1EP4zRlbHClHtcITnoroi3UDnPU7ALwX8/view?usp=sharing)
-
-![](https://drive.google.com/file/d/1SOyOVV2yhje7eMFRw6D-Wz52pgghrIXj/view?usp=sharing)
 ## Features
 
 ### Drug Discovery using Machine Learning💊⚕️
